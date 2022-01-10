@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/que-dia-foi/static/css/main.c209593c.css",
+    "main.js": "/que-dia-foi/static/js/main.f5dd3dbd.js",
+    "static/js/787.4aa0637e.chunk.js": "/que-dia-foi/static/js/787.4aa0637e.chunk.js",
+    "index.html": "/que-dia-foi/index.html",
+    "main.c209593c.css.map": "/que-dia-foi/static/css/main.c209593c.css.map",
+    "main.f5dd3dbd.js.map": "/que-dia-foi/static/js/main.f5dd3dbd.js.map",
+    "787.4aa0637e.chunk.js.map": "/que-dia-foi/static/js/787.4aa0637e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c209593c.css",
+    "static/js/main.f5dd3dbd.js"
+  ]
+}
